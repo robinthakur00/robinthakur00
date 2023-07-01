@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **robinthakur00@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1YUo7LGdEL_J2oRZ552R_NFeYc7T8S0Ti/view?usp=drive_link
+- 📄 Know about my experiences https://drive.google.com/file/d/1MTr38v1uECGNTBh_MqJ9wcCF8nYO22Mb/view?usp=drive_link
 
 - ⚡ Fun fact **Programmers don't byte, they nibble a bit.**
 
