@@ -5,11 +5,19 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 💬 Ask me about **With over 2 years of DevOps Engineering experience and 5+ years as a Wordpress Developer, I'm keen to explore opportunities that leverage my skills in managing CI/CD environments, automating deployment processes, and utilizing Infrastructure as Code tools like Terraform and Ansible. Proficient in Docker and Kubernetes, I'm enthusiastic about contributing to innovative projects and driving impactful outcomes.**
+- 👋 Hi there! I'm Robin, a seasoned DevOps Engineering professional with over 2 years of hands-on experience. I bring expertise in managing CI/CD environments, automating deployment processes, and using tools like Terraform and Ansible for impactful outcomes.
+
+  🛠️ Throughout my DevOps journey, I've focused on streamlining workflows, optimizing systems, and enhancing efficiency through automation. I excel in building scalable, resilient       infrastructures that drive continuous improvement and support innovative projects.
+
+  🐳 Skilled in Docker and Kubernetes, I specialize in orchestrating containerized environments and scaling applications effectively. Whether it's setting up robust Docker containers or managing Kubernetes clusters, I tackle complex challenges with ease.
+
+  💡 I'm passionate about contributing to innovative projects and leveraging cutting-edge technologies for tangible results. I'm dedicated to driving impactful outcomes and collaborating with teams to overcome challenges.
+
+  🚀 If you're looking for a dedicated professional with expertise in DevOps practices and a passion for innovation, let's connect and explore exciting ventures together!
 
 - 📫 How to reach me **robinthakur00@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/13dMgYGVjaFmagt0VKqU3sIFh_Ax7F7b9/view?usp=drive_link
+- 📄 Know about my experiences https://drive.google.com/file/d/1OfnvyElOgphFTHkq1Kbvcvtgno2jKI7u/view?usp=drive_link
 
 - ⚡ Fun fact **Programmers don't byte, they nibble a bit.**
 
